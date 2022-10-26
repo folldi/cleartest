@@ -1,4 +1,6 @@
 afile line 1
 v1
 afile line 2
-v2v1
+v2
+afile line 3
+v3
